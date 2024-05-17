@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, Eu souu Isabella</h1>
+<h1 align="center">Olá 👋, Eu sou Isabella</h1>
 <h3 align="center">Sou apaixonada em gerar insights com dados através da minha formação em estatística</h3>
 
 - 🌱 Sou entusiasta em aprender **Machine Learning e Inteligência Artificial**
